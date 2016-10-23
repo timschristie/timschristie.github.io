@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post-rsses on Tim Christie</title>
+    <link>http://tim-christie.com/post/index.xml</link>
+    <description>Recent content in Post-rsses on Tim Christie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <lastBuildDate>Sun, 23 Oct 2016 17:55:51 +1000</lastBuildDate>
+    <atom:link href="http://tim-christie.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bash on Ubuntu on Windows</title>
+      <link>http://tim-christie.com/post/20161023/bash-on-ubuntu-on-windows/</link>
+      <pubDate>Sun, 23 Oct 2016 17:55:51 +1000</pubDate>
+      
+      <guid>http://tim-christie.com/post/20161023/bash-on-ubuntu-on-windows/</guid>
+      <description>&lt;p&gt;I decided to spend some time updating my website over the weekend. Usually this would mean jumping on my &lt;a href=&#34;https://www.archlinux.org&#34;&gt;Arch Linux&lt;/a&gt; machine &amp;mdash; however, I decided it would be a good chance to give &lt;a href=&#34;https://msdn.microsoft.com/en-us/commandline/wsl/about&#34;&gt;Bash on Ubuntu on Windows&lt;/a&gt; a go and see how far I could get.&lt;/p&gt;
+
+&lt;p&gt;To my surprise, this went remarkably well.&lt;/p&gt;
+
+&lt;p&gt;With access to the &lt;a href=&#34;https://msdn.microsoft.com/en-us/commandline/wsl/about&#34;&gt;Windows Subsystem for Linux (WSL)&lt;/a&gt;, and the &lt;a href=&#34;https://www.ubuntu.com&#34;&gt;Ubuntu&lt;/a&gt; package repositories (via &lt;code&gt;apt-get&lt;/code&gt;), I had no issues at all downloading and configuring any of the software I needed to work on this site.&lt;/p&gt;
+
+&lt;p&gt;This included:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Installing &lt;code&gt;vim&lt;/code&gt; (unfortunately not Version 8)&lt;/li&gt;
+&lt;li&gt;Installing &lt;code&gt;git&lt;/code&gt; (works a bit better than &lt;a href=&#34;https://git-scm.com&#34;&gt;Git Bash&lt;/a&gt; on Windows)&lt;/li&gt;
+&lt;li&gt;Generating SSH keys&lt;/li&gt;
+&lt;li&gt;Installing &lt;code&gt;golang&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Downloading &amp;amp; installing the &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;latest Hugo deb package&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+I am looking forward to using this more in the coming weeks; first impressions &amp;mdash; this is an excellent addition to Windows.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Migrated to Hugo</title>
+      <link>http://tim-christie.com/post/20161022/migrated-to-hugo/</link>
+      <pubDate>Sat, 22 Oct 2016 22:00:00 +1000</pubDate>
+      
+      <guid>http://tim-christie.com/post/20161022/migrated-to-hugo/</guid>
+      <description>&lt;p&gt;Decided it was time to update this site. It&amp;rsquo;s still hosted on &lt;a href=&#34;https://pages.github.com&#34;&gt;Github Pages&lt;/a&gt;, but is now using the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; static site generator.&lt;/p&gt;
+
+&lt;p&gt;So far so good. I&amp;rsquo;ve opted to use the &lt;a href=&#34;https://github.com/digitalcraftsman/hugo-cactus-theme&#34;&gt;Cactus Theme by digitalcraftsman&lt;/a&gt;, which has made setting this up a breeze.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
