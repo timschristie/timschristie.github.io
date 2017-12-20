@@ -162,14 +162,5 @@ With access to the Windows Subsystem for Linux (WSL), and the Ubuntu package rep
 So far so good. I&amp;rsquo;ve opted to use the Cactus Theme by digitalcraftsman, which has made setting this up a breeze.</description>
     </item>
     
-    <item>
-      <title>About</title>
-      <link>http://tim-christie.com/about/</link>
-      <pubDate>Sat, 22 Oct 2016 00:00:00 +1000</pubDate>
-      
-      <guid>http://tim-christie.com/about/</guid>
-      <description>This website was made using Hugo. Theme courtesy of digitalcraftsman.</description>
-    </item>
-    
   </channel>
 </rss>
