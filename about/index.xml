@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Tim Christie</title>
-    <link>http://tim-christie.com/about/</link>
+    <link>https://tim-christie.com/about/</link>
     <description>Recent content in About on Tim Christie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
     <lastBuildDate>Sat, 22 Oct 2016 00:00:00 +1000</lastBuildDate>
     
-	<atom:link href="http://tim-christie.com/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tim-christie.com/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
